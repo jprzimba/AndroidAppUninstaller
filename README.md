@@ -4,7 +4,7 @@ Android App Uninstaller is a Windows Forms application designed to uninstall nat
 This application uses google's ADB to work, the first time the program is downloaded if the files are missing to work it will download directly from google's website.
 You need to activate the USB DEBUG MODE on your smartphone.
 
-The application uses Ionic.Zip.dll to unzip download ADB.
+The application uses [Ionic.Zip](https://www.nuget.org/packages/Ionic.Zip/) to unzip download ADB.
 
 Preview
 -------
